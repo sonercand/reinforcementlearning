@@ -2,7 +2,16 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
+.ipynb_checkpoints/
+
+__MACOSX/
+__pycache__/
+bigdl.log
+CODEOWNERS
+requirements/
+saved_models/
 # C extensions
 *.so
 
